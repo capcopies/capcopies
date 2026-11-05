@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f4f4f4"/>
+<circle cx="520" cy="90" r="60" fill="#fde4e6"/>
+
+<rect x="190" y="135" width="260" height="190" rx="18" fill="#efefef" stroke="#999" stroke-width="4"/>
+<rect x="220" y="170" width="85" height="120" rx="10" fill="#e50914"/>
+<rect x="325" y="175" width="16" height="110" rx="8" fill="#222"/>
+<rect x="355" y="160" width="18" height="125" rx="9" fill="#555"/>
+<rect x="390" y="195" width="28" height="90" rx="10" fill="#111"/>
+
+<text x="320" y="405" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#111">Office Essentials Kit</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 76">
+<rect width="310" height="76" rx="16" fill="#090909"/>
+<circle cx="38" cy="38" r="22" fill="#e50914"/>
+<path d="M27 27h22v23H27z" fill="none" stroke="#fff" stroke-width="4"/>
+<path d="M31 23h22v23" fill="none" stroke="#fff" stroke-width="4"/>
+<text x="74" y="49" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#ffffff">capcopies</text>
+</svg>
